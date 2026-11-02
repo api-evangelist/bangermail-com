@@ -1,4 +1,4 @@
-# bangermail-com
+# BangerMail Inc.
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,149 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-bangermail-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://bangermail.com/
+BangerMail Inc. provides AI‑driven email marketing automation for online stores and businesses, enabling personalized campaigns, automated scheduling, A/B testing, and detailed analytics. Users can start for free, integrate via a robust API, and scale with premium plans that offer unlimited sends and advanced features. The platform emphasizes AI‑generated content, high deliverability, and seamless integration with e‑commerce tools.
+
+**Areas:** Email Marketing · AI · Automation · SaaS · Marketing
+
+## BangerMail Inc. on APIs.io
+
+Everything profiled for BangerMail Inc. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bangermail-com/](https://apis.io/providers/bangermail-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [BangerMail Inc. Forms API](https://apis.io/apis/bangermail-com/bangermail-com-forms-api/) — The Forms API from BangerMail Inc. — 4 operation(s) for forms.
+- [BangerMail Inc. Workspaces API](https://apis.io/apis/bangermail-com/bangermail-com-workspaces-api/) — The Workspaces API from BangerMail Inc. — 262 operation(s) for workspaces.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Bangermail Com Agentic Access](https://apis.io/agentic-access/bangermail-com/bangermail-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BillingSnapshot](https://apis.io/schemas/bangermail-com/bangermail-com-billing-snapshot/)
+- [Broadcast](https://apis.io/schemas/bangermail-com/bangermail-com-broadcast/)
+- [CreateProductWebhookRequest](https://apis.io/schemas/bangermail-com/bangermail-com-create-product-webhook-request/)
+- [JourneyInput](https://apis.io/schemas/bangermail-com/bangermail-com-journey-input/)
+- [MailchimpMigrationReport](https://apis.io/schemas/bangermail-com/bangermail-com-mailchimp-migration-report/)
+- [TransactionalSend](https://apis.io/schemas/bangermail-com/bangermail-com-transactional-send/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Bangermail Com Context](https://apis.io/jsonld/bangermail-com/bangermail-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [BangerMail Inc. API Rules](https://apis.io/rules/bangermail-com/bangermail-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bangermail Com Authentication](https://apis.io/security/bangermail-com/bangermail-com-authentication/)
+- [Bangermail Com Domain Security](https://apis.io/security/bangermail-com/bangermail-com-domain-security/)
+- [Bangermail Com Vulnerability Disclosure](https://apis.io/security/bangermail-com/bangermail-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Bangermail Com Scopes](https://apis.io/scopes/bangermail-com/bangermail-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bangermail Com Plans Pricing](https://apis.io/plans/bangermail-com/bangermail-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Bangermail Com Rate Limits](https://apis.io/rate-limits/bangermail-com/bangermail-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bangermail.com/)
+- [Documentation](https://bangermail.com/docs/)
+- [Getting started](https://bangermail.com/docs/guide/getting-started/quickstart/)
+- [API reference](https://bangermail.com/openapi.json)
+- [Pricing](https://bangermail.com/pricing/)
+- [Sign up](https://bangermail.com/features/signup-forms/)
+- [Support](https://bangermail.com/support/)
+- [Blog](https://bangermail.com/blog/)
+- [Security](https://bangermail.com/security/)
+- [Trust centre](https://bangermail.com/trust/)
+- [Terms of service](https://bangermail.com/terms/)
+- [Privacy policy](https://bangermail.com/privacy/)
+- [GitHub](https://github.com/MuchBetterApps)
+- [Status](https://bangermail.com/status/)
+
+## API Evangelist rating
+
+**Kin Score 67.0** — exemplar · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 55.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 81.1 |
+
+**Agent readiness 60.8** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 41.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bangermail-com/](https://apis.io/providers/bangermail-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BangerMail Inc.: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bangermail-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
